@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import GithubImage from './github.png';
 
 function App() {
   return (
@@ -18,13 +19,19 @@ function App() {
               <button type="submit" className="btn btn-success">
                 Search
               </button>
-              
             </span>
           </div>
-          
-          
         </div>
       </form>
+      <div className="py-5">
+        <img 
+          src={GithubImage} 
+          className="responsive rounded-circle" 
+          alt=""
+          height="200px"
+        />
+        
+      </div>
     </div>
   );
 }
