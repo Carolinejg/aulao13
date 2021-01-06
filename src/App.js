@@ -30,6 +30,17 @@ function App() {
           alt=""
           height="200px"
         />
+        <h1 className="pt-5">
+          <a href="https://github.com/Carolinejg" target="_new">
+            Caroline Souza
+            </a>
+            <h1>
+              <h3>Salvador</h3>
+              <p>
+                
+              </p>
+            </h1>
+        </h1>
         
       </div>
     </div>
