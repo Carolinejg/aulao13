@@ -4,3 +4,6 @@
 # Tecnologias utilizadas
 - ReactJS com a API users do github 
 - IDE utilizada: Visual Studio Code
+# Pre requisitos 
+- Ter Node.js instalado 
+- Exexutar no terminal npm run start
