@@ -6,4 +6,4 @@
 - IDE utilizada: Visual Studio Code
 # Pre requisitos 
 - Ter o Node.js instalado 
-- Exexutar no terminal npm run start
+- Executar no terminal npm run start
